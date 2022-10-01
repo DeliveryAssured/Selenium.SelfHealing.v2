@@ -1,0 +1,294 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/DeliveryAssured/Dev/Selenium.WebDriver.SelfHealing/src/documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "4XoO//smE7tsboMKhT++4zAbPVh2V7zd3cT/LgWAV3w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/csharp_coding_standards.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/csharp_coding_standards.html",
+          "hash": "zxS2mqkzd+eNcmtgR95EvMQ4IzRGqoaSSCD5tlw6Vwk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/docfx_getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/docfx_getting_started.html",
+          "hash": "ZCrTGIMBHTjRx1WRk31OBZYvCaP6y0f19EaClpSxtUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/engineering_guidelines.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/engineering_guidelines.html",
+          "hash": "37X5joxWxWFgy3hQC9p9JgvQOgWVqCOoq0j6OjxPqUI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/images/seed.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/images/seed.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "hMv6PtlZdrlIwJxR8wWkDK6+Z8c5khn6S1CZbHdnr30="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "aoP4o7dy4zDRbgivlvykJW9CR5z4sUsXgkqoIV/56Ww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.DisableHealing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.DisableHealing.html",
+          "hash": "y6aq8oj6qfEi5pW0yr3vZ4Ja4wHTpM0x+aGybbOlKIY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.ISearchContextDisabledHealing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.ISearchContextDisabledHealing.html",
+          "hash": "4bzBMJNnEBV6GyHKTHE9h2Dc1ggBDzGOZl7/ADzQDWY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.ISelfHealingWebDriver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.ISelfHealingWebDriver.html",
+          "hash": "WlPmR4g+jLkBIiDy/SVJs7wiLo/8kY06fcYCdX9Mh2g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.SelfHealingWebDriver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.SelfHealingWebDriver.html",
+          "hash": "0UMh77Nz8IDJKNfhHLJyNQCRmnFNNmNJ99+RxXZPwzk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.SelfHealingWebDriverFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.SelfHealingWebDriverFactory.html",
+          "hash": "phvCzyCUCL3zxK5RfzzbxPsHiRWI5Frb0uw7mA1Xi54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/Selenium.SelfHealing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Selenium.SelfHealing.html",
+          "hash": "3RarGfAm8DfhvmGjYeZy6qrOuMYQuPFuZscaQDGDFIA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "5gDAXxa0rM1uowhr16a6o7SgXAqRN++jrAi99D6pa8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "RestApi",
+      "source_relative_path": "restapi/contacts_swagger2.json",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/contacts.html",
+          "hash": "h31nlHHG7PQQIMQqpcSz+0uafKA/MoPDnpDxPUIqrkM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "RestApi",
+      "source_relative_path": "restapi/petstore.swagger.json",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/petstore.html",
+          "hash": "5nQ4sddhnm1N0W65jaG4gmUSyP+AmHAAUYiqWbZdQZo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "restapi/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/toc.html",
+          "hash": "JJoWU+OW6wo50SttAqS1LZEzWuRzdnbs75UYJf29u1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+IQPxtwRKIgJcyPol8YnTxy83d2QqoifaISrWBC93qU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 5,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 14,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "RestApiDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor RestApiDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
