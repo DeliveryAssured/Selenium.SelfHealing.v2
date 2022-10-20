@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/DeliveryAssured/github/SeleniumSelfHealing/src/documentation",
+  "source_base_path": "C:/DeliveryAssured/github/self-healing/SeleniumSelfHealing/SelfHealing/documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -18,7 +18,7 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "4XoO//smE7tsboMKhT++4zAbPVh2V7zd3cT/LgWAV3w="
+          "hash": "wGEPvIhfy/FNNM05TkokAQEiMVo3TCnFTUUT4WVwpns="
         }
       },
       "is_incremental": false,
@@ -26,11 +26,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/csharp_coding_standards.md",
+      "source_relative_path": "RELEASENOTE.md",
       "output": {
         ".html": {
-          "relative_path": "articles/csharp_coding_standards.html",
-          "hash": "zxS2mqkzd+eNcmtgR95EvMQ4IzRGqoaSSCD5tlw6Vwk="
+          "relative_path": "RELEASENOTE.html",
+          "hash": "1FcPhu/EaYLO9G989AB1z2Gdb1UOGAfw7de0qfy7ANM="
         }
       },
       "is_incremental": false,
@@ -38,11 +38,26 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/docfx_getting_started.md",
+      "source_relative_path": "articles/auto-wait.md",
       "output": {
         ".html": {
-          "relative_path": "articles/docfx_getting_started.html",
-          "hash": "ZCrTGIMBHTjRx1WRk31OBZYvCaP6y0f19EaClpSxtUA="
+          "relative_path": "articles/auto-wait.html",
+          "hash": "Vxj/EwERVkBan4T/ztcUBvtVBUwH6+aVzS1SulcDzwQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/features.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/features.html",
+          "hash": "a0ATXxYfYQeYeklBVr1Zea9pxlXZu5OXXTvia34vstw="
         }
       },
       "is_incremental": false,
@@ -50,11 +65,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/engineering_guidelines.md",
+      "source_relative_path": "articles/getting_started.md",
       "output": {
         ".html": {
-          "relative_path": "articles/engineering_guidelines.html",
-          "hash": "37X5joxWxWFgy3hQC9p9JgvQOgWVqCOoq0j6OjxPqUI="
+          "relative_path": "articles/getting_started.html",
+          "hash": "cVrbtKI/sMVO9Ay9M2nnZIiQQT49nLehIx6jQZnXyr0="
         }
       },
       "is_incremental": false,
@@ -72,12 +87,12 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "articles/toc.md",
+      "type": "Conceptual",
+      "source_relative_path": "articles/insights-report.md",
       "output": {
         ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "hMv6PtlZdrlIwJxR8wWkDK6+Z8c5khn6S1CZbHdnr30="
+          "relative_path": "articles/insights-report.html",
+          "hash": "CV+tY7T59qHEdQ1qhb70cRiKSUbsg2jNCfleHmMYW+w="
         }
       },
       "is_incremental": false,
@@ -85,11 +100,53 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/self-healing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/self-healing.html",
+          "hash": "rFujT5mi7y8rULGHQ7vX16fR2ECkUM9EwUSUo38iUwI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "/p3CQV4RWtZEhfM/tnpiRMywiCelJtTYKWG7sWU7wo8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/what-to-expect.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/what-to-expect.html",
+          "hash": "z9KiJw3AGx7YRPcn4VdaNfg9ey+/63LzpdFSOx3ixCQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "index",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "aoP4o7dy4zDRbgivlvykJW9CR5z4sUsXgkqoIV/56Ww="
+          "hash": "Iqpyh64tCKKnSHL6zy/heJsmmzIFjwSeuMVNHm2Sa0o="
         }
       },
       "is_incremental": false,
@@ -101,7 +158,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.DisableHealing.html",
-          "hash": "kb4yj68CMA4qkJAmP3OuehZGtinrMiOS/1NSd7MQ3QE="
+          "hash": "ux1QoPzXu6B+THShqlOq72Dp9a62qHfTVThy9cCvCq4="
         }
       },
       "is_incremental": false,
@@ -113,7 +170,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.ISearchContextDisabledHealing.html",
-          "hash": "Vzm8EpZ2ThwM0ulMLCTFf+g5siTR2hmASDdas1q8f5M="
+          "hash": "FnO7GAmT3FWPMy7B7Bu2Ge2Nht4+vXJY4ffKDf8vJOM="
         }
       },
       "is_incremental": false,
@@ -125,7 +182,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.ISelfHealingWebDriver.html",
-          "hash": "qe0gIl7hdDPYxMWUQCSV5uRPrsUMEk3LMdhOuinWIwI="
+          "hash": "Xgm48VhlbsQbEnbG5z578OuAkhnmhWkVmYXCCpjYFiQ="
         }
       },
       "is_incremental": false,
@@ -137,7 +194,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.SelfHealingRemoteWebDriver.html",
-          "hash": "ePonG9N/dLdd/aSUWx3VdJo0dSZz++0c8aBg6DH/Jes="
+          "hash": "RnuGtivkfnnT4SwZSl6j7qTtSl9nFBKyQRCNy7gtPqs="
         }
       },
       "is_incremental": false,
@@ -149,7 +206,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.SelfHealingRemoteWebDriverFactory.html",
-          "hash": "/4MuMarIv6qpBJX+a8LT4AxqJNVlQUP2vJH0zh/qbrM="
+          "hash": "QOAKNFYnhVaPyUdieCHqmRx4nfil6qhWx1Xn4by3RZU="
         }
       },
       "is_incremental": false,
@@ -161,7 +218,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.html",
-          "hash": "3AvNP8Sq/tZs0YElCZmOcWVeirFAsDNFaKphD3qkTR0="
+          "hash": "IJwaQ9uvGWkNDpMP/0I8CMX/GW3sHRqpcLr1KWlrZXo="
         }
       },
       "is_incremental": false,
@@ -185,7 +242,7 @@
       "output": {
         ".html": {
           "relative_path": "restapi/contacts.html",
-          "hash": "h31nlHHG7PQQIMQqpcSz+0uafKA/MoPDnpDxPUIqrkM="
+          "hash": "PMzZ0BWNUPbBkTisvGCckvyLe58Y8LfwsUjIoNzrc9s="
         }
       },
       "is_incremental": false,
@@ -197,7 +254,7 @@
       "output": {
         ".html": {
           "relative_path": "restapi/petstore.html",
-          "hash": "5nQ4sddhnm1N0W65jaG4gmUSyP+AmHAAUYiqWbZdQZo="
+          "hash": "xTQIuMTSF5n3fWV8GoydhckW55Bj8ICnqDCgKeCxm+g="
         }
       },
       "is_incremental": false,
@@ -221,7 +278,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "+IQPxtwRKIgJcyPol8YnTxy83d2QqoifaISrWBC93qU="
+          "hash": "XbtGNTB4EOebYfnPRaCPylKlyIfPJqtaeK8R6x3FmRg="
         }
       },
       "is_incremental": false,
@@ -242,7 +299,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 5,
+          "total_file_count": 9,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
