@@ -233,7 +233,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.DisableHealing.html",
-          "hash": "oVPUtGkCYGuruVp6+TUbjczmF+jpZBFQ5gKTciqe2ZY="
+          "hash": "F8Zh8m9x3bj7jEUTs2IMQ3Vr+rUHFJzSFJ38Tq7nnog="
         }
       },
       "is_incremental": false,
@@ -269,7 +269,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.SelfHealingRemoteWebDriver.html",
-          "hash": "lIYWlAD+j/mwncVEucQBjcssrPwH3ISlvzM+zgca1QM="
+          "hash": "RkWYabsmUmkvmSQ61Gg+zO3iazT4umo/inscckmfxFM="
         }
       },
       "is_incremental": false,
@@ -281,7 +281,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Selenium.SelfHealing.SelfHealingRemoteWebDriverFactory.html",
-          "hash": "CbwN/9zR3z+0CLNeqgoyr4Gvywnarip/dI77CIDnwD8="
+          "hash": "Iyo0EZAkkvTCGmb1QncEUrVQdAktd7uExXtEMxSKdWs="
         }
       },
       "is_incremental": false,
